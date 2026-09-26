@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Authors": [{ "Name": "istavare" }],
+    "Category": "Multimedia",
+    "Description": "A compact MPRIS now-playing controller for Plasma panels",
+    "Icon": "media-playback-start",
+    "Id": "com.github.istavare.musicwidget",
+    "License": "0BSD",
+    "Name": "Music Widget",
+    "Version": "1.7.3"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
