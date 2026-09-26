@@ -2,6 +2,10 @@
 
 A translucent now-playing widget for a KDE Plasma 6 panel. It shows album art, track details, and playback controls for MPRIS-compatible players, including YouTube Music in Chromium-based browsers. The expanded player has a per-application volume slider and a lightly tinted, rounded card.
 
+## Disclaimer 
+
+- This music now-playing widget primarily uses AI generated code but I have personally tested the widget 
+
 ## Requirements
 
 - KDE Plasma 6
