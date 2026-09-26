@@ -57,9 +57,3 @@ The source directory can be installed directly. To create a `.plasmoid` archive 
 ```sh
 (cd com.github.istavare.musicwidget && zip -qr ../Music-Widget.plasmoid .)
 ```
-
-Generated archives are ignored by Git.
-
-## License
-
-0BSD (Zero-Clause BSD). You may use, modify, and redistribute the code, including commercially, without attribution. See [LICENSE](LICENSE).
